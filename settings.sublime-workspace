@@ -1,0 +1,585 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"upa",
+				"update20hz"
+			],
+			[
+				"LED",
+				"LED_UPDATE"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"F",
+				"FIL"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"im",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"tr",
+				"try	Try/Except/Finally"
+			],
+			[
+				"co",
+				"conn"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"SOLD",
+				"SOLDERING_PEN_TRASHCAN"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"SERV",
+				"SERVO_CENTER"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"in",
+				"int16_t"
+			],
+			[
+				"ve",
+				"vec3i_addt"
+			],
+			[
+				"le",
+				"leg"
+			],
+			[
+				"leg",
+				"leg_calcRadius"
+			],
+			[
+				"i",
+				"inc	#include \"…\""
+			],
+			[
+				"vec",
+				"vec3"
+			],
+			[
+				"usa",
+				"usart"
+			],
+			[
+				"usart",
+				"usart_puts"
+			],
+			[
+				"u",
+				"usart"
+			],
+			[
+				"mo",
+				"motor_geterror"
+			],
+			[
+				"MO",
+				"MOTOR_H_"
+			],
+			[
+				"MOT",
+				"motor_set"
+			],
+			[
+				"G",
+				"GET_FW_VERSION"
+			],
+			[
+				"M1",
+				"M1_REVS_8"
+			],
+			[
+				"M0",
+				"M0_REVS_8"
+			],
+			[
+				"M1_",
+				"M1_FORW_7"
+			],
+			[
+				"mot",
+				"motor_coast"
+			],
+			[
+				"moto",
+				"motor_brake"
+			],
+			[
+				"fr",
+				"format"
+			],
+			[
+				"file_wri",
+				"file_write"
+			],
+			[
+				"file",
+				"file_read"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"f",
+				"file"
+			],
+			[
+				"fil",
+				"file_t"
+			],
+			[
+				"sta",
+				"startsWith"
+			],
+			[
+				"fun",
+				"function	function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 1635,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sdimage/alix.ini",
+			"settings":
+			{
+				"buffer_size": 49,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"sublim",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"subl",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"sub",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"",
+				"AVR: Create/Update Project"
+			],
+			[
+				"avr",
+				"AVR: Create/Update Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"perl",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gustav/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/gustav/.config/sublime-text-2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/gustav/hexapod/settings.sublime-project",
+		"/home/gustav/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/gustav/.config/sublime-text-2/Packages/User/SublimeClang.sublime-settings",
+		"/home/gustav/hexapod/hexapod.c",
+		"/home/gustav/hexapod/SublimeAVR.sublime-workspace",
+		"/home/gustav/sublime/hexapod/SublimeAVR.sublime-project",
+		"/home/gustav/.minecraft/options.txt",
+		"/home/gustav/.minecraft/launcher_profiles.json",
+		"/media/data/synced/documents/hexapod/rapport/.korra_cache.txt",
+		"/home/gustav/gsl/gsl.py",
+		"/media/data/synced/documents/hexapod/rapport/src/main.c",
+		"/home/gustav/Downloads/led_strip.c",
+		"/home/gustav/flip.3.2.1/bin/flip.sh",
+		"/home/gustav/Desktop/Borderlands 2.url",
+		"/home/gustav/.config/sublime-text-2/Packages/User/bash.sublime-build",
+		"/home/gustav/gpa2",
+		"/media/data/synced/documents/hexapod/rapport/src/skynet.h",
+		"/home/gustav/alix.txt",
+		"/home/gustav/diptrace_gerber.sh",
+		"/media/gustav/Xilinx/SteamLibrary/SteamApps/common/Portal 2/portal2.sh",
+		"/home/gustav/driver/Makefile",
+		"/home/gustav/Downloads/mall.json",
+		"/home/gustav/lista.lst",
+		"/home/gustav/erase.sh",
+		"/home/gustav/aperture.sh",
+		"/home/gustav/.bashrc",
+		"/home/gustav/ideaprojects/usc-iggesund/resources/sprites/test.yml",
+		"/home/gustav/skype-db.sh",
+		"/media/data/synced/documents/electronics/brandfarlig MKIII/project.gpa",
+		"/media/data/synced/documents/electronics/brandfarlig MKIII/.gitignore",
+		"/home/gustav/driver/driver.c",
+		"/media/gustav/Xilinx/SteamLibrary/SteamApps/common/Portal 2/bin/portal.fgd",
+		"/media/gustav/Xilinx/SteamLibrary/SteamApps/common/Portal 2/bin/dxsupport_mac.cfg",
+		"/media/data/synced/documents/ideaprojects/spg/server/src/ServerSpace.scala",
+		"/home/gustav/hexapod/avr-makefil.sh",
+		"/home/gustav/gpa",
+		"/media/data/synced/documents/ideaprojects/spg/server/src/Server.scala",
+		"/home/gustav/hexapod/Makefile",
+		"/home/gustav/play.sh",
+		"/home/gustav/alix_cache.sh",
+		"/home/gustav/.config/sublime-text-2/Packages/AVR/templates/GPA_template/Makefile",
+		"/media/data/synced/documents/workspace/t/Debug/main.d",
+		"/home/gustav/.config/sublime-text-2/Packages/AVR/SublimeAVR.sublime-settings",
+		"/media/data/synced/documents/hexapod/avrstudio/Hexapod/Hexapod/src/inverse-kinematics.txt",
+		"/home/gustav/Downloads/skype-ubuntu-precise_4.2.0.13-1_i386.deb",
+		"/var/lib/dbus/machine-id",
+		"/home/gustav/Downloads/NVIDIA-Linux-x86_64-334.21.run",
+		"/home/gustav/travis.yml",
+		"/home/gustav/vec3i.h",
+		"/home/gustav/.cache/.fr-5gq9XF/LUFA-130901/Demos/Device/ClassDriver/MassStorage/MassStorage.c",
+		"/media/data/synced/documents/brandfarlig/gerbers/native/untitled.sh",
+		"/media/data/synced/documents/hexapod/source/leg.c",
+		"/proc/driver/rtc",
+		"/home/gustav/avr-vala/temp/rock/INSTALL",
+		"/media/gustav/OS_Install/NVIDIA/DisplayDriver/GeForce332.21Driver/Display.Optimus/acpigold.mof",
+		"/media/gustav/OS_Install/NVIDIA/DisplayDriver/GeForce332.21Driver/Display.NView/Advanced.tvp",
+		"/media/data/synced/music/.SyncIgnore",
+		"/media/data/pictures/MT_X1.inf",
+		"/home/gustav/.dbus/session-bus/019715f94c6187641304c34c51976355-0",
+		"/media/data/synced/documents/hexapod/work/.git/config",
+		"/home/gustav/mcp/docs/README-LINUX",
+		"/home/gustav/mcp/docs/README-MCP.TXT",
+		"/home/gustav/mcp/src/minecraft/Start.java",
+		"/home/gustav/mcp/src/minecraft/net/minecraft/src/Chunk.java",
+		"/home/gustav/test.gs",
+		"/home/gustav/twitch.py",
+		"/home/gustav/ideaprojects/spg/servers/_test/space.py",
+		"/home/gustav/ideaprojects/spg/server/src/JythonFactory.scala",
+		"/media/data/synced/documents/school/construction/_korra_cache.gmd",
+		"/home/gustav/avr-vala/test.c",
+		"/home/gustav/Downloads/tb6612.rar",
+		"/home/gustav/avr/nimrod/examples/allany.nim",
+		"/home/gustav/avr/nimrod/examples/hallo.nim",
+		"/media/gustav/OS_Install/NVIDIA/DisplayDriver/GeForce332.21Driver/Display.NView/NVWCPZHT.chm",
+		"/media/gustav/OS_Install/NVIDIA/DisplayDriver/GeForce332.21Driver/Display.NView/nview.cpl",
+		"/media/data/synced/documents/hexapod/rapport/src/vec3.h",
+		"/media/data/synced/documents/hexapod/code/Hexapod.c",
+		"/media/data/documents/hexapod/avrstudio/Hexapod/Hexapod/src/servos.c",
+		"/media/data/synced/documents/hexapod/rapport/src/servos.h",
+		"/media/data/synced/documents/hexapod/rapport/src/servos.c",
+		"/home/gustav/.gconf/apps/gnome-terminal/profiles/Default/%gconf.xml",
+		"/home/gustav/Desktop/Old Firefox Data/fmpbrbie.default/sessionstore.js",
+		"/tmp/freeroute.jnlp",
+		"/media/data/Steam/SteamApps/common/Mass Effect 2/Engine/Shaders/BasePassPixelShader.usf",
+		"/home/gustav/Downloads/rts_pstor/rtsx.c",
+		"/home/gustav/Downloads/rts_pstor/spi.c",
+		"/home/gustav/Downloads/theme-66.epf",
+		"/media/data/atmelstudio/ProjectTemplatesCache/Atmel-Boards/atmega256rfr2_xplained_pro.zip/src/main.c",
+		"/media/data/documents/hexapod/source/untitled.c",
+		"/home/gustav/test.c",
+		"/media/data/atmelstudio/ProjectTemplatesCache/User-Boards/xmegad.zip/src/main.c",
+		"/media/data/atmelstudio/ProjectTemplatesCache/User-Boards/xmegad.zip/src/asf.h",
+		"/home/gustav/test.vala.o",
+		"/home/gustav/temp/oocairo/examples/arc.lua",
+		"/home/gustav/minecraft/SKcraft.desktop",
+		"/avr1995.txt",
+		"/home/gustav/optirun-java.sh",
+		"/home/gustav/Desktop/idea.desktop",
+		"/home/gustav/gpa-cos/kernel.c",
+		"/media/data/avrprojects/MWAR3/MWAR3/src/motor.h",
+		"/media/data/sme/SkyDrive/test.gpz",
+		"/home/gustav/gpa-cos/gpa_kernel.c",
+		"/media/data/avrprojects/MWAR3/MWAR3/src/motor.c",
+		"/home/gustav/gustavp@gpa-robotics.com (0x8AB4CFEE) rev.asc",
+		"/home/gustav/engine.shd",
+		"/home/gustav/surfacechatt",
+		"/home/gustav/build-hmsg-Desktop-Debug/moc_hms_gotland.cpp",
+		"/media/data/avrprojects/USART_EXAMPLE1/src/usart_example.c",
+		"/home/gustav/libann.1.4/ann/outputMap.cc",
+		"/home/gustav/libann.1.4/ann/mlp.cc",
+		"/home/gustav/libann.1.4/ann/matrix.h",
+		"/home/gustav/libann.1.4/ann/matrix.cc",
+		"/home/gustav/libann.1.4/ann/fm.cc",
+		"/home/gustav/.config/sublime-text-2/Packages/Package Control/example-repository.json",
+		"/home/gustav/libann.1.4/ann/mesh.cc",
+		"/home/gustav/libann.1.4/ann/layer.cc",
+		"/home/gustav/libann.1.4/ann/ann.cc",
+		"/home/gustav/libann.1.4/ann/ann.d",
+		"/home/gustav/gpa-cos/isodir/boot/grub/grub.cfg",
+		"/home/gustav/.config/sublime-text-2/Packages/User/something.py",
+		"/home/gustav/shutdown.sh",
+		"/home/gustav/NetBeansProjects/HMS-Gotland/t.shd",
+		"/usr/local/include/lua.hpp",
+		"/home/gustav/NetBeansProjects/HMS-Gotland/Model.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"options",
+			"\"options\"",
+			"//",
+			"textbox",
+			"$",
+			"path",
+			"avr",
+			"move",
+			"\\e[00m\"",
+			"echo -e \"\\e[00;31m",
+			"system",
+			"vec3i",
+			"vec3",
+			"n->",
+			".",
+			"->",
+			".",
+			" ",
+			" *",
+			"//",
+			"MOTOR1",
+			"MOTOR0",
+			"MOTOR_USART",
+			"0x86",
+			"0xAA"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"echo \"",
+			"inputbox",
+			"S",
+			"cp",
+			"\"",
+			"error \"",
+			"hexapod",
+			"vec3i",
+			"n.",
+			"vec3i",
+			"n.",
+			"->",
+			".",
+			"->",
+			"",
+			"MOTOR_1",
+			"MOTOR_0",
+			"&MOTOR_USART",
+			"QIK_INIT",
+			"QIK_INI",
+			"QIK_INIT"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Makefile",
+					"settings":
+					{
+						"buffer_size": 1635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sdimage/alix.ini",
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 227.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 200.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true
+}

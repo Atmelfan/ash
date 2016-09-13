@@ -1,0 +1,606 @@
+2016-04-08 21:55:01,049 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 21:55:01,050 [CORE] INFO: Running camera ['args'] !
+2016-04-08 21:55:01,050 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 21:55:01,051 [CORE] WARNING: Module potato does not exist!
+2016-04-08 21:55:03,209 [CORE] DEBUG: [<camera(Thread-1, stopped 140209074620160)>, <sound(Thread-2, stopped 140209066227456)>]
+2016-04-08 21:55:26,163 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 21:55:26,164 [CORE] INFO: Running camera ['args'] !
+2016-04-08 21:55:26,164 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 21:55:26,165 [CORE] WARNING: Module potato does not exist!
+2016-04-08 21:55:28,876 [CORE] DEBUG: [<camera(Thread-1, stopped 140067952842496)>, <sound(Thread-2, stopped 140067876108032)>]
+2016-04-08 21:57:05,872 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 21:57:05,873 [CORE] INFO: Running camera ['args'] !
+2016-04-08 21:57:05,873 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 21:57:05,874 [CORE] WARNING: Module potato does not exist!
+2016-04-08 21:57:10,701 [CORE] DEBUG: [<camera(Thread-1, stopped 140183133751040)>, <sound(Thread-2, stopped 140183125358336)>]
+2016-04-08 22:02:17,934 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:02:17,935 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:02:17,935 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:02:17,936 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:02:19,907 [CORE] DEBUG: [<camera(Thread-1, stopped 139896633509632)>, <sound(Thread-2, stopped 139896625116928)>]
+2016-04-08 22:02:34,787 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:02:34,787 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:02:46,919 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:02:46,919 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:02:46,920 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:02:46,920 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:03:03,825 [CORE] DEBUG: [<camera(Thread-1, stopped 140134036281088)>, <sound(Thread-2, stopped 140134027888384)>]
+2016-04-08 22:03:40,048 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:03:40,048 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:03:40,049 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:03:40,049 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:03:59,407 [CORE] DEBUG: [<camera(Thread-1, stopped 139895108982528)>, <sound(Thread-2, stopped 139895100589824)>]
+2016-04-08 22:04:45,132 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:04:45,133 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:04:45,133 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:04:45,134 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:04:49,386 [CORE] DEBUG: [<camera(Thread-1, stopped 139771005519616)>, <sound(Thread-2, stopped 139770997126912)>]
+2016-04-08 22:07:02,783 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:07:02,784 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:07:02,784 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:07:02,785 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:08:06,139 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:08:06,139 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:08:06,139 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:08:06,148 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:08:23,506 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:08:23,507 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:08:23,507 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:08:23,507 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:08:29,567 [CORE] DEBUG: [<camera(Thread-1, stopped 140083255871232)>, <sound(Thread-2, stopped 140083176929024)>]
+2016-04-08 22:14:29,802 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:14:29,803 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:14:29,803 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:14:29,803 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:14:43,276 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:14:43,276 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:14:43,277 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:14:43,277 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:14:56,175 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:14:56,175 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:14:56,176 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:14:56,226 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:17:11,762 [CORE] DEBUG: [<camera(Thread-1, stopped 139728386549504)>, <sound(Thread-2, stopped 139728305256192)>]
+2016-04-08 22:17:21,318 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:17:21,318 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:17:21,319 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:17:21,319 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:17:38,099 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:17:38,099 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:17:38,100 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:17:38,100 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:18:43,348 [CORE] DEBUG: [<camera(Thread-1, stopped 140560352392960)>, <sound(Thread-2, stopped 140560344000256)>]
+2016-04-08 22:18:45,282 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:18:45,283 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:18:45,283 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:18:45,283 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:19:09,077 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:19:09,078 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:19:09,078 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:19:09,080 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:19:10,539 [CORE] DEBUG: [<camera(Thread-1, stopped 140362026059520)>, <sound(Thread-2, stopped 140361947150080)>]
+2016-04-08 22:19:34,889 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:19:34,890 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:19:34,890 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:19:34,890 [CORE] WARNING: Module potato does not exist!
+2016-04-08 22:19:39,012 [CORE] DEBUG: [<camera(Thread-1, stopped 140586282284800)>, <sound(Thread-2, stopped 140586273892096)>]
+2016-04-08 22:20:53,962 [CORE] INFO: Reading config file ash.gmd...
+2016-04-08 22:20:53,962 [CORE] INFO: Running camera ['args'] !
+2016-04-08 22:20:53,963 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-08 22:20:53,963 [CORE] WARNING: Module potato does not exist!
+2016-04-09 03:21:36,090 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 03:21:36,107 [CORE] INFO: Running camera ['args'] !
+2016-04-09 03:21:36,108 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 03:21:36,108 [CORE] WARNING: Module potato does not exist!
+2016-04-09 03:44:29,796 [CORE] DEBUG: [<camera(Thread-1, stopped 139969935152896)>, <sound(Thread-2, stopped 139969926760192)>]
+2016-04-09 03:44:33,526 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 03:44:33,526 [CORE] INFO: Running camera ['args'] !
+2016-04-09 03:44:33,526 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 03:44:33,527 [CORE] WARNING: Module potato does not exist!
+2016-04-09 03:45:59,428 [CORE] DEBUG: [<camera(Thread-1, stopped 140011893004032)>, <sound(Thread-2, stopped 140011884611328)>]
+2016-04-09 03:46:00,593 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 03:46:00,594 [CORE] INFO: Running camera ['args'] !
+2016-04-09 03:46:00,594 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 03:46:00,594 [CORE] WARNING: Module potato does not exist!
+2016-04-09 03:47:33,058 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 03:47:33,059 [CORE] INFO: Running camera ['args'] !
+2016-04-09 03:47:33,059 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 03:47:33,060 [CORE] WARNING: Module potato does not exist!
+2016-04-09 03:48:52,200 [CORE] DEBUG: [<camera(Thread-1, stopped 139902585243392)>, <sound(Thread-2, stopped 139902576850688)>]
+2016-04-09 03:48:53,237 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 03:48:53,237 [CORE] INFO: Running camera ['args'] !
+2016-04-09 03:48:53,238 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 03:48:53,238 [CORE] WARNING: Module potato does not exist!
+2016-04-09 03:50:43,493 [CORE] DEBUG: [<camera(Thread-1, stopped 140646459094784)>, <sound(Thread-2, stopped 140646450702080)>]
+2016-04-09 03:50:45,187 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 03:50:45,196 [CORE] INFO: Running camera ['args'] !
+2016-04-09 03:50:45,196 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 03:50:45,197 [CORE] WARNING: Module potato does not exist!
+2016-04-09 03:51:11,085 [CORE] DEBUG: [<camera(Thread-1, stopped 139749673850624)>, <sound(Thread-2, stopped 139749665457920)>]
+2016-04-09 03:53:32,866 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 03:53:32,866 [CORE] INFO: Running camera ['args'] !
+2016-04-09 03:53:32,867 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 03:53:32,867 [CORE] WARNING: Module potato does not exist!
+2016-04-09 03:54:01,250 [CORE] DEBUG: [<camera(Thread-1, stopped 140482772866816)>, <sound(Thread-2, stopped 140482764474112)>]
+2016-04-09 03:54:22,887 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 03:54:22,888 [CORE] INFO: Running camera ['args'] !
+2016-04-09 03:54:22,888 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 03:54:22,889 [CORE] WARNING: Module potato does not exist!
+2016-04-09 03:55:47,572 [CORE] DEBUG: [<camera(Thread-1, stopped 139803301156608)>, <sound(Thread-2, stopped 139803292763904)>]
+2016-04-09 03:55:48,657 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 03:55:48,658 [CORE] INFO: Running camera ['args'] !
+2016-04-09 03:55:48,658 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 03:55:48,658 [CORE] WARNING: Module potato does not exist!
+2016-04-09 03:58:09,982 [CORE] DEBUG: [<camera(Thread-1, stopped 139879416465152)>, <sound(Thread-2, stopped 139879408072448)>]
+2016-04-09 03:58:10,602 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 03:58:10,602 [CORE] INFO: Running camera ['args'] !
+2016-04-09 03:58:10,603 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 03:58:10,603 [CORE] WARNING: Module potato does not exist!
+2016-04-09 04:03:12,186 [CORE] DEBUG: [<camera(Thread-1, stopped 139991300773632)>, <sound(Thread-2, stopped 139991292380928)>]
+2016-04-09 04:03:13,897 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 04:03:13,898 [CORE] INFO: Running camera ['args'] !
+2016-04-09 04:03:13,898 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 04:03:13,899 [CORE] WARNING: Module potato does not exist!
+2016-04-09 04:07:05,220 [CORE] DEBUG: [<camera(Thread-1, stopped 139701158569728)>, <sound(Thread-2, stopped 139701150177024)>]
+2016-04-09 04:07:07,221 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 04:07:07,222 [CORE] INFO: Running camera ['args'] !
+2016-04-09 04:07:07,223 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 04:07:07,223 [CORE] WARNING: Module potato does not exist!
+2016-04-09 04:09:13,034 [CORE] DEBUG: [<camera(Thread-1, stopped 139830700664576)>, <sound(Thread-2, stopped 139830692271872)>]
+2016-04-09 04:09:14,120 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 04:09:14,120 [CORE] INFO: Running camera ['args'] !
+2016-04-09 04:09:14,121 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 04:09:14,121 [CORE] WARNING: Module potato does not exist!
+2016-04-09 16:34:30,966 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 16:34:30,993 [CORE] INFO: Running camera ['args'] !
+2016-04-09 16:34:30,999 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 16:34:30,999 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:09:31,358 [CORE] DEBUG: [<camera(Thread-1, stopped 140147623929600)>, <sound(Thread-2, stopped 140147615536896)>]
+2016-04-09 17:09:34,792 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:09:34,792 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:09:34,793 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:09:34,793 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:11:02,424 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:11:02,424 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:11:02,425 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:11:02,425 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:12:03,712 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:12:03,712 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:12:03,713 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:12:03,713 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:12:30,265 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:12:30,266 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:12:30,267 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:12:30,267 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:13:18,343 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:13:18,343 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:13:18,344 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:13:18,344 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:14:01,689 [CORE] DEBUG: [<camera(Thread-1, stopped 139647777482496)>, <sound(Thread-2, stopped 139647769089792)>]
+2016-04-09 17:14:02,454 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:14:02,454 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:14:02,455 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:14:02,455 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:14:40,241 [CORE] DEBUG: [<camera(Thread-1, stopped 139963109050112)>, <sound(Thread-2, stopped 139963100657408)>]
+2016-04-09 17:16:46,014 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:16:46,014 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:16:46,015 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:16:46,015 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:17:23,400 [CORE] DEBUG: [<camera(Thread-1, stopped 140377823725312)>, <sound(Thread-2, stopped 140377815332608)>]
+2016-04-09 17:17:24,792 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:17:24,792 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:17:24,793 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:17:24,793 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:18:16,130 [CORE] DEBUG: [<camera(Thread-1, stopped 140336746080000)>, <sound(Thread-2, stopped 140336737687296)>]
+2016-04-09 17:18:16,894 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:18:16,894 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:18:16,895 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:18:16,895 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:19:13,119 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:19:13,119 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:19:13,119 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:19:13,120 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:21:41,237 [CORE] DEBUG: [<camera(Thread-1, stopped 139912532076288)>, <sound(Thread-2, stopped 139912451979008)>]
+2016-04-09 17:21:42,082 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:21:42,083 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:21:42,083 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:21:42,084 [CORE] WARNING: Module potato does not exist!
+2016-04-09 17:53:23,257 [CORE] DEBUG: [<camera(Thread-1, stopped 140689754101504)>, <sound(Thread-2, stopped 140689745708800)>]
+2016-04-09 17:53:26,392 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 17:53:26,392 [CORE] INFO: Running camera ['args'] !
+2016-04-09 17:53:26,393 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 17:53:26,393 [CORE] WARNING: Module potato does not exist!
+2016-04-09 21:34:23,770 [CORE] INFO: Reading config file ash.gmd...
+2016-04-09 21:34:23,804 [CORE] INFO: Running camera ['args'] !
+2016-04-09 21:34:23,811 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-09 21:34:23,811 [CORE] WARNING: Module potato does not exist!
+2016-04-11 09:46:00,739 [CORE] INFO: Reading config file ash.gmd...
+2016-04-11 09:46:00,774 [CORE] INFO: Running camera ['args'] !
+2016-04-11 09:46:00,775 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-11 09:46:00,775 [CORE] WARNING: Module potato does not exist!
+2016-04-12 01:08:35,479 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 01:08:35,497 [CORE] INFO: Running camera ['args'] !
+2016-04-12 01:08:35,498 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 01:08:35,498 [CORE] WARNING: Module potato does not exist!
+2016-04-12 11:16:11,160 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 11:16:11,194 [CORE] INFO: Running camera ['args'] !
+2016-04-12 11:16:11,194 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 11:16:11,194 [CORE] WARNING: Module potato does not exist!
+2016-04-12 11:21:11,095 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 11:21:11,095 [CORE] INFO: Running camera ['args'] !
+2016-04-12 11:21:11,096 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 11:21:11,096 [CORE] WARNING: Module potato does not exist!
+2016-04-12 11:21:27,955 [CORE] DEBUG: [<camera(Thread-1, stopped 140532526458624)>, <sound(Thread-2, stopped 140532518065920)>]
+2016-04-12 11:21:44,935 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 11:21:44,935 [CORE] INFO: Running camera ['args'] !
+2016-04-12 11:21:44,936 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 11:21:44,936 [CORE] WARNING: Module potato does not exist!
+2016-04-12 11:21:57,885 [CORE] DEBUG: [<camera(Thread-1, stopped 140175649310464)>, <sound(Thread-2, stopped 140175640917760)>]
+2016-04-12 11:22:09,626 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 11:22:09,626 [CORE] INFO: Running camera ['args'] !
+2016-04-12 11:22:09,627 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 11:22:09,628 [CORE] WARNING: Module potato does not exist!
+2016-04-12 11:22:30,268 [CORE] DEBUG: [<camera(Thread-1, stopped 139874381551360)>, <sound(Thread-2, stopped 139874373158656)>]
+2016-04-12 11:23:01,219 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 11:23:01,220 [CORE] INFO: Running camera ['args'] !
+2016-04-12 11:23:01,220 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 11:23:01,220 [CORE] WARNING: Module potato does not exist!
+2016-04-12 11:26:10,527 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 11:26:10,527 [CORE] INFO: Running camera ['args'] !
+2016-04-12 11:26:10,528 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 11:26:10,528 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:09:45,654 [CORE] DEBUG: [<camera(Thread-1, stopped 139800908445440)>, <sound(Thread-2, stopped 139800900052736)>]
+2016-04-12 12:10:39,159 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:11:03,397 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:11:03,414 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:11:03,421 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:11:03,421 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:20:09,405 [CORE] DEBUG: [<camera(Thread-1, stopped 140291151943424)>, <sound(Thread-2, stopped 140291143550720)>]
+2016-04-12 12:20:11,580 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:20:11,581 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:20:11,581 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:20:11,581 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:21:25,509 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:21:25,510 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:21:25,510 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:21:25,510 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:22:02,809 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:22:02,809 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:22:02,810 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:22:02,810 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:22:04,992 [CORE] DEBUG: [<camera(Thread-2, stopped 140364418287360)>, <sound(Thread-3, stopped 140364409632512)>]
+2016-04-12 12:23:05,172 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:23:05,173 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:23:05,173 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:23:05,173 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:23:07,353 [CORE] DEBUG: [<camera(Thread-2, stopped 139745320503040)>, <sound(Thread-3, stopped 139745312110336)>]
+2016-04-12 12:23:09,864 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:23:09,865 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:23:09,865 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:23:09,865 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:23:22,110 [CORE] DEBUG: [<camera(Thread-2, stopped 139691946350336)>, <sound(Thread-3, stopped 139691865143040)>]
+2016-04-12 12:23:40,532 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:23:40,532 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:23:40,533 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:23:40,535 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:23:55,261 [CORE] DEBUG: [<camera(Thread-2, stopped 140581294556928)>, <sound(Thread-3, stopped 140581286164224)>]
+2016-04-12 12:28:58,892 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:28:58,893 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:28:58,893 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:28:58,893 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:33:34,016 [CORE] DEBUG: [<camera(Thread-2, stopped 140082621888256)>, <sound(Thread-3, stopped 140082613495552)>]
+2016-04-12 12:34:08,810 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:34:08,812 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:34:08,813 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:34:08,813 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:35:16,561 [CORE] DEBUG: [<camera(Thread-2, stopped 139879434417920)>, <sound(Thread-3, stopped 139879426025216)>]
+2016-04-12 12:37:24,394 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:37:24,395 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:37:24,396 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:37:24,397 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:38:35,980 [CORE] DEBUG: [<camera(Thread-2, stopped 140238396835584)>, <sound(Thread-3, stopped 140238388442880)>]
+2016-04-12 12:47:29,222 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:47:29,224 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:47:29,226 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:47:29,226 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:47:29,227 [CORE] DEBUG: [<camera(Thread-2, stopped 140297254205184)>, <sound(Thread-3, stopped 140297245812480)>]
+2016-04-12 12:47:41,130 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:47:41,131 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:47:41,132 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:47:41,132 [CORE] WARNING: Module potato does not exist!
+2016-04-12 12:47:41,132 [CORE] DEBUG: [<camera(Thread-2, stopped 139830589228800)>, <sound(Thread-3, stopped 139830512056064)>]
+2016-04-12 12:48:39,710 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 12:48:39,711 [CORE] INFO: Running camera ['args'] !
+2016-04-12 12:48:39,711 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 12:48:39,711 [CORE] WARNING: Module potato does not exist!
+2016-04-12 20:36:33,975 [CORE] DEBUG: [<camera(Thread-2, stopped 140279394055936)>, <sound(Thread-3, stopped 140279385663232)>]
+2016-04-12 20:36:50,988 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 20:36:50,988 [CORE] INFO: Running camera ['args'] !
+2016-04-12 20:36:50,989 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 20:36:50,989 [CORE] WARNING: Module potato does not exist!
+2016-04-12 20:36:52,517 [CORE] DEBUG: [<camera(Thread-2, stopped 139724663105280)>, <sound(Thread-3, stopped 139724654712576)>]
+2016-04-12 20:45:25,534 [CORE] INFO: Reading config file --gui...
+2016-04-12 20:45:25,534 [CORE] INFO: Running camera ['args'] !
+2016-04-12 20:45:25,535 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 20:45:25,535 [CORE] WARNING: Module potato does not exist!
+2016-04-12 20:45:25,535 [CORE] ERROR: Unexpected exception
+Traceback (most recent call last):
+  File "core.py", line 172, in <module>
+    screen = curses.initscr()
+AttributeError: 'bool' object has no attribute 'initscr'
+2016-04-12 20:45:25,536 [CORE] DEBUG: [<camera(Thread-2, stopped 140031586944768)>, <sound(Thread-3, stopped 140031503103744)>]
+2016-04-12 22:12:18,089 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:12:18,090 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:12:18,090 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:12:18,090 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:12:18,090 [CORE] ERROR: Unexpected exception
+Traceback (most recent call last):
+  File "core.py", line 172, in <module>
+    screen = curses.initscr()
+AttributeError: 'bool' object has no attribute 'initscr'
+2016-04-12 22:12:18,091 [CORE] DEBUG: [<camera(Thread-2, stopped 140165908891392)>, <sound(Thread-3, stopped 140165900498688)>]
+2016-04-12 22:12:36,394 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 22:12:36,394 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:12:36,395 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:12:36,395 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:12:39,530 [CORE] DEBUG: [<camera(Thread-2, stopped 140399353984768)>, <sound(Thread-3, stopped 140399345592064)>]
+2016-04-12 22:13:21,209 [CORE] INFO: Reading config file ash.gmd...
+2016-04-12 22:13:21,211 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:13:21,212 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:13:21,213 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:13:27,797 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:13:27,798 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:13:27,798 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:13:27,799 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:22:47,879 [CORE] DEBUG: [<camera(Thread-2, stopped 140536492680960)>, <sound(Thread-3, stopped 140536484288256)>]
+2016-04-12 22:23:46,463 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:23:46,464 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:23:46,470 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:23:46,470 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:23:50,223 [CORE] ERROR: Unexpected exception
+Traceback (most recent call last):
+  File "core.py", line 213, in <module>
+    tabs[index].command(cmd)
+  File "core.py", line 80, in command
+    self.msg(m.__class_.__name__ + '\t' + m.drun)
+AttributeError: 'camera' object has no attribute '_UI_terminal__class_'
+2016-04-12 22:23:50,223 [CORE] DEBUG: [<camera(Thread-2, stopped 140219474507520)>, <sound(Thread-3, stopped 140219466114816)>]
+2016-04-12 22:23:55,243 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:23:55,244 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:23:55,244 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:23:55,244 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:23:58,170 [CORE] ERROR: Unexpected exception
+Traceback (most recent call last):
+  File "core.py", line 213, in <module>
+    tabs[index].command(cmd)
+  File "core.py", line 80, in command
+    self.msg(m.__class_.__name__ + '\t' + m.drun)
+AttributeError: 'camera' object has no attribute '_UI_terminal__class_'
+2016-04-12 22:23:58,170 [CORE] DEBUG: [<camera(Thread-2, stopped 139943111251712)>, <sound(Thread-3, stopped 139943102859008)>]
+2016-04-12 22:28:17,697 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:28:17,698 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:28:17,698 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:28:17,698 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:28:20,013 [CORE] ERROR: Unexpected exception
+Traceback (most recent call last):
+  File "core.py", line 213, in <module>
+    tabs[index].command(cmd)
+  File "core.py", line 80, in command
+    self.msg(m + '\t' + m.drun)
+TypeError: unsupported operand type(s) for +: 'camera' and 'str'
+2016-04-12 22:28:20,013 [CORE] DEBUG: [<camera(Thread-2, stopped 140679905257216)>, <sound(Thread-3, stopped 140679896864512)>]
+2016-04-12 22:28:50,758 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:28:50,759 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:28:50,759 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:28:50,760 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:28:53,051 [CORE] ERROR: Unexpected exception
+Traceback (most recent call last):
+  File "core.py", line 213, in <module>
+    tabs[index].command(cmd)
+  File "core.py", line 80, in command
+    self.msg(str(m) + '\t' + m.drun)
+TypeError: cannot concatenate 'str' and 'bool' objects
+2016-04-12 22:28:53,052 [CORE] DEBUG: [<camera(Thread-2, stopped 140471330797312)>, <sound(Thread-3, stopped 140471322404608)>]
+2016-04-12 22:29:49,345 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:29:49,345 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:29:49,346 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:29:49,346 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:33:00,683 [CORE] DEBUG: [<camera(Thread-2, stopped 139737259722496)>, <sound(Thread-3, stopped 139737251329792)>]
+2016-04-12 22:33:01,506 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:33:01,507 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:33:01,507 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:33:01,507 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:33:01,507 [CORE] ERROR: Unexpected exception
+Traceback (most recent call last):
+  File "core.py", line 174, in <module>
+    curses.savetty()
+error: must call initscr() first
+2016-04-12 22:34:35,422 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:34:35,423 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:34:35,424 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:34:35,424 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:38:09,199 [CORE] DEBUG: [<camera(Thread-2, stopped 140676764555008)>, <sound(Thread-3, stopped 140676687722240)>]
+2016-04-12 22:41:05,069 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:41:05,070 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:41:05,070 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:41:05,071 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:41:35,700 [CORE] DEBUG: [<camera(Thread-2, stopped 140312029517568)>, <sound(Thread-3, stopped 140311951046400)>]
+2016-04-12 22:41:36,555 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:41:36,556 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:41:36,556 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:41:36,556 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:42:09,668 [CORE] DEBUG: [<camera(Thread-2, stopped 140478404196096)>, <sound(Thread-3, stopped 140478395803392)>]
+2016-04-12 22:42:10,428 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:42:10,428 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:42:10,429 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:42:10,429 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:42:30,962 [CORE] DEBUG: [<camera(Thread-2, stopped 139621815232256)>, <sound(Thread-3, stopped 139621736380160)>]
+2016-04-12 22:42:31,720 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:42:31,721 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:42:31,721 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:42:31,721 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:43:42,920 [CORE] DEBUG: [<camera(Thread-2, stopped 140527130986240)>, <sound(Thread-3, stopped 140527122593536)>]
+2016-04-12 22:43:56,852 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:43:56,853 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:43:56,853 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:43:56,854 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:44:24,264 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:44:24,265 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:44:24,265 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:44:24,265 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:44:24,266 [CORE] DEBUG: [<camera(Thread-2, stopped 139892654864128)>, <sound(Thread-3, stopped 139892646471424)>]
+2016-04-12 22:44:25,611 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:44:25,611 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:44:25,617 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:44:25,617 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:44:25,617 [CORE] DEBUG: [<camera(Thread-2, stopped 139836399126272)>, <sound(Thread-3, stopped 139836390733568)>]
+2016-04-12 22:44:27,501 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:44:27,502 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:44:27,502 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:44:27,502 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:44:27,502 [CORE] DEBUG: [<camera(Thread-2, stopped 139872954771200)>, <sound(Thread-3, stopped 139872946378496)>]
+2016-04-12 22:45:04,400 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:45:04,400 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:45:04,401 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:45:04,401 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:45:04,401 [CORE] ERROR: Unexpected exception
+Traceback (most recent call last):
+  File "core.py", line 178, in <module>
+    while x!=ord('x'):
+NameError: name 'x' is not defined
+2016-04-12 22:45:04,402 [CORE] DEBUG: [<camera(Thread-2, stopped 139866010875648)>, <sound(Thread-3, stopped 139866002482944)>]
+2016-04-12 22:45:07,044 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:45:07,045 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:45:07,045 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:45:07,045 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:45:07,046 [CORE] ERROR: Unexpected exception
+Traceback (most recent call last):
+  File "core.py", line 178, in <module>
+    while x!=ord('x'):
+NameError: name 'x' is not defined
+2016-04-12 22:45:07,046 [CORE] DEBUG: [<camera(Thread-2, stopped 139696237041408)>, <sound(Thread-3, stopped 139696160110336)>]
+2016-04-12 22:45:26,408 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:45:26,409 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:45:26,410 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:45:26,410 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:45:26,410 [CORE] ERROR: Unexpected exception
+Traceback (most recent call last):
+  File "core.py", line 177, in <module>
+    while x!=ord('x'):
+NameError: name 'x' is not defined
+2016-04-12 22:45:26,410 [CORE] DEBUG: [<camera(Thread-2, stopped 139984929552128)>, <sound(Thread-3, stopped 139984921159424)>]
+2016-04-12 22:45:28,055 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:45:28,056 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:45:28,056 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:45:28,056 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:45:28,057 [CORE] ERROR: Unexpected exception
+Traceback (most recent call last):
+  File "core.py", line 177, in <module>
+    while x!=ord('x'):
+NameError: name 'x' is not defined
+2016-04-12 22:45:28,057 [CORE] DEBUG: [<camera(Thread-2, stopped 140482034059008)>, <sound(Thread-3, stopped 140482025666304)>]
+2016-04-12 22:45:43,786 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:45:43,786 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:45:43,787 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:45:43,787 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:46:30,317 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:46:30,318 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:46:30,318 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:46:30,318 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:47:02,515 [CORE] DEBUG: [<camera(Thread-2, stopped 140540617832192)>, <sound(Thread-3, stopped 140540609439488)>]
+2016-04-12 22:47:03,739 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:47:03,739 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:47:03,740 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:47:03,740 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:47:28,359 [CORE] DEBUG: [<camera(Thread-2, stopped 139837379417856)>, <sound(Thread-3, stopped 139837371025152)>]
+2016-04-12 22:47:29,149 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:47:29,150 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:47:29,151 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:47:29,151 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:48:08,784 [CORE] DEBUG: [<camera(Thread-2, stopped 139683987171072)>, <sound(Thread-3, stopped 139683978778368)>]
+2016-04-12 22:48:09,688 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:48:09,689 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:48:09,690 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:48:09,690 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:48:30,961 [CORE] DEBUG: [<camera(Thread-2, stopped 139801575634688)>, <sound(Thread-3, stopped 139801567241984)>]
+2016-04-12 22:48:59,487 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:48:59,487 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:48:59,488 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:48:59,488 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:49:17,618 [CORE] DEBUG: [<camera(Thread-2, stopped 140063073937152)>, <sound(Thread-3, stopped 140063065544448)>]
+2016-04-12 22:49:18,568 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:49:18,569 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:49:18,569 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:49:18,569 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:49:39,425 [CORE] DEBUG: [<camera(Thread-2, stopped 139712182830848)>, <sound(Thread-3, stopped 139712174438144)>]
+2016-04-12 22:49:40,231 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:49:40,232 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:49:40,232 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:49:40,233 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:51:46,244 [CORE] DEBUG: [<camera(Thread-2, stopped 140232866346752)>, <sound(Thread-3, stopped 140232857954048)>]
+2016-04-12 22:51:48,027 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:51:48,028 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:51:48,028 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:51:48,028 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:52:07,362 [CORE] DEBUG: [<camera(Thread-2, stopped 139981291054848)>, <sound(Thread-3, stopped 139981282662144)>]
+2016-04-12 22:52:08,168 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:52:08,168 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:52:08,169 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:52:08,169 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:52:57,609 [CORE] DEBUG: [<camera(Thread-2, stopped 140039515789056)>, <sound(Thread-3, stopped 140039507396352)>]
+2016-04-12 22:52:58,817 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:52:58,818 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:52:58,818 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:52:58,818 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:53:29,559 [CORE] DEBUG: [<camera(Thread-2, stopped 139934241363712)>, <sound(Thread-3, stopped 139934232971008)>]
+2016-04-12 22:53:36,743 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:53:36,743 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:53:36,744 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:53:36,744 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:55:58,585 [CORE] DEBUG: [<camera(Thread-2, stopped 140322798855936)>, <sound(Thread-3, stopped 140322790463232)>]
+2016-04-12 22:56:29,275 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:56:29,275 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:56:29,276 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:56:29,276 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:57:01,299 [CORE] DEBUG: [<camera(Thread-2, stopped 139726141146880)>, <sound(Thread-3, stopped 139726132754176)>]
+2016-04-12 22:57:02,958 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:57:02,959 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:57:02,959 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:57:02,960 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:57:42,590 [CORE] DEBUG: [<camera(Thread-2, stopped 140202908030720)>, <sound(Thread-3, stopped 140202832033536)>]
+2016-04-12 22:57:46,861 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:57:46,862 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:57:46,863 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:57:46,863 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:58:26,827 [CORE] DEBUG: [<camera(Thread-2, stopped 140619740710656)>, <sound(Thread-3, stopped 140619732317952)>]
+2016-04-12 22:58:28,042 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:58:28,043 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:58:28,043 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:58:28,043 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:58:52,239 [CORE] DEBUG: [<camera(Thread-2, stopped 140193285695232)>, <sound(Thread-3, stopped 140193277302528)>]
+2016-04-12 22:58:53,193 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:58:53,193 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:58:53,194 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:58:53,194 [CORE] WARNING: Module potato does not exist!
+2016-04-12 22:59:23,003 [CORE] DEBUG: [<camera(Thread-2, stopped 139751065081600)>, <sound(Thread-3, stopped 139750988052224)>]
+2016-04-12 22:59:28,972 [CORE] INFO: Reading config file --gui...
+2016-04-12 22:59:28,974 [CORE] INFO: Running camera ['args'] !
+2016-04-12 22:59:28,975 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-12 22:59:28,975 [CORE] WARNING: Module potato does not exist!
+2016-04-12 23:10:56,419 [CORE] DEBUG: [<camera(Thread-2, stopped 140049655265024)>, <sound(Thread-3, stopped 140049646872320)>]
+2016-04-13 22:12:42,977 [CORE] INFO: Reading config file --gui...
+2016-04-13 22:13:16,272 [CORE] INFO: Reading config file --gui...
+2016-04-13 22:13:16,287 [CORE] INFO: Running camera ['args'] !
+2016-04-13 22:13:16,290 [CORE] INFO: Running sound ['arg 1 2 3', 'arg'] !
+2016-04-13 22:13:16,291 [CORE] WARNING: Module potato does not exist!
+2016-04-13 22:13:24,264 [CORE] DEBUG: [<camera(Thread-2, stopped 140478307862272)>, <sound(Thread-3, stopped 140478299469568)>]
+2016-05-01 15:44:56,139 [CORE] INFO: Reading config file ash.gmd...
+2016-05-01 15:44:56,179 [CORE] WARNING: Module camera does not exist!
+2016-05-01 15:44:56,179 [CORE] INFO: Running sound [] !
+2016-05-01 15:44:56,183 [CORE] WARNING: Module firmware does not exist!
+2016-05-01 15:44:58,949 [CORE] DEBUG: [<sound(Thread-2, stopped 139636939855616)>]
+2016-05-01 15:45:03,556 [CORE] INFO: Reading config file ash.gmd...
+2016-05-01 15:45:03,558 [CORE] WARNING: Module camera does not exist!
+2016-05-01 15:45:03,559 [CORE] INFO: Running sound [] !
+2016-05-01 15:45:03,563 [CORE] WARNING: Module firmware does not exist!
+2016-05-01 15:45:15,308 [CORE] DEBUG: [<sound(Thread-2, stopped 140049061803776)>]

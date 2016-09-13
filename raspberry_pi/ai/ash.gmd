@@ -1,0 +1,73 @@
+title "ASH interface"
+deameon_mode MATT
+max_tasks 100
+modules:
+	camera "-":
+		resolution 640 320 
+		fov 0 0
+		loglevel INFO
+	end
+
+	sound:
+		stereo true
+		loglevel INFO
+	end
+
+	speech_recognition:
+		permission USER
+		loglevel CRITICAL
+	end
+
+	randomevent:
+		events:
+			"EVENT_RANDOM_IDLE" 10 5
+			"EVENT_RANDOM_INSULT" 600 100
+		end
+		loglevel INFO
+	end
+
+	filesystem:
+		execute_scripts "confirm"
+		index_files true
+		directories:
+			"/home/ash/"
+			"/media/"
+		end
+		loglevel INFO
+	end
+end
+
+tasks:
+	playsound EVENT_NEW_FACE:
+		priority 1 0.2 -0.1 #Final priority = 1 + 0.2*event_priority - 0.1*age
+		sound_source "turret/greetings/"
+		mutex:
+			MUTEX_SOUND
+		end
+	end
+
+	eyes_track EVENT_NEW_FACE:
+		priority 1 0.2 -0.1
+		eyes 0 1 0 0 1 0
+		mutex:
+			MUTEX_EYES
+		end
+	end
+
+	playsound EVENT_NEW_IDENTITY/GPA-875-000:
+		priority 1 0.2 -0.1
+		sound_source "glados/oh_its_you.wav"
+		mutex:
+			MUTEX_SOUND
+		end
+	end
+
+	eyes_track EVENT_NEW_IDENTITY:
+		priority 2 0.2 -0.1
+		eyes 1 0 0 1 0 0
+		mutex:
+			MUTEX_EYES
+		end
+	end
+
+end

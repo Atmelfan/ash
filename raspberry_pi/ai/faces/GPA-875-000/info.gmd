@@ -1,0 +1,9 @@
+uuid 0000-0000-0000-0000
+title "Atmelfan"
+references:
+	atmelfan_default.jpg:
+		mood none
+		priority_multiplier 2.0
+	end
+
+end
