@@ -103,22 +103,24 @@ void calc_ik(const uint8_t leg, const float x, const float y, const float z){
 	const float L3 = 110;
 	float d_sq = x*x + y*y;
 	float d = sqrt(d_sq) - L1;
-	float s1 = (d_sq + L2*L2 - L3*L3)/(2*d*L2);
-	float s2 = (L2*L2 + L3*L3 - d_sq)/(2*L2*L3);
+	float s1 = (d*d + L2*L2 - L3*L3)/(2*d*L2);
+	float s2 = (L2*L2 + L3*L3 - d*d)/(2*L2*L3);
 
-	float S0 = (180/M_PI)*(atan2(y, x));
-	float S1 = (180/M_PI)*(acos(s1) + atan2(z, d));
-	float S2 = (180/M_PI)*(acos(s2));
+	float S0 = (180.0f/M_PI)*(atan2(y, x));
+	float S1 = (180.0f/M_PI)*(acos(s1) + atan2(z, d));
+	float S2 = (180.0f/M_PI)*(acos(s2));
+
+	#define S_FACTOR (500.0f/60.0f)
 
 	if (leg%2)
 	{
-		maestro_position(leg*3 + 0, limit(1500 - S0*(500/60), 1250, 1750)*4);
-		maestro_position(leg*3 + 1, limit(2250 - S1*(500/60), 1250, 2150)*4);
-		maestro_position(leg*3 + 2, limit(750 + S2*(500/60), 850, 2150)*4);
+		maestro_position(leg*3 + 0, limit(1500 +  0*S_FACTOR - S0*S_FACTOR, 1250, 1750)*4);
+		maestro_position(leg*3 + 1, limit(1500 + 90*S_FACTOR - S1*S_FACTOR, 1250, 2150)*4);
+		maestro_position(leg*3 + 2, limit(1500 - 90*S_FACTOR + S2*S_FACTOR, 850, 2150)*4);
 	}else{
-		maestro_position(leg*3 + 0, limit(1500 + S0*(500/60), 1250, 1750)*4);
-		maestro_position(leg*3 + 1, limit(750 + S1*(500/60), 800, 1750)*4);
-		maestro_position(leg*3 + 2, limit(2250 - S2*(500/60), 850, 2150)*4);
+		maestro_position(leg*3 + 0, limit(1500 +  0*S_FACTOR + S0*S_FACTOR, 1250, 1750)*4);
+		maestro_position(leg*3 + 1, limit(1500 - 90*S_FACTOR + S1*S_FACTOR, 800, 1750)*4);
+		maestro_position(leg*3 + 2, limit(1500 + 90*S_FACTOR - S2*S_FACTOR, 850, 2150)*4);
 	}
 }
 
@@ -137,7 +139,7 @@ struct
 	{ 70,  160}
 };
 
-int16_t offset_y = -100;
+int16_t offset_y = -90;
 int16_t offset_x = 130;
 
 void step_partial(uint8_t i, float t, int16_t x, int16_t y, bool half_step){
@@ -532,12 +534,22 @@ void update(){
 				home_position(true);
 			}
 		}
-		//maestro_position(5*3 + 2, 2100*4);
-		//calc_ik(4, 150, (controller_struct.lx-127)/2, (controller_struct.ly-127));
+		//maestro_position(4*3 + 0, 1500*4+(controller_struct.lx-127)*2);
+		//calc_ik(4, 130+(controller_struct.ly-127)/1.5f, 0+(controller_struct.lx-127)/1.5f, offset_y);
+
 		if (remote)
 		{
 			if(controller_struct.buttons_change  & (1 << 3) && !(controller_struct.buttons & (1 << 3))){
 				home_position(!at_home_position);
+			}
+			if(controller_struct.buttons & (1 << 11) && !(controller_struct.buttons & (1 << 11))){
+				if (!new_walk && !g_half_step)
+				{
+					reset_walk();
+					translate_y = 1;
+					translate_x = 0;
+					translate_angle = 0;
+				}
 			}
 			if(controller_struct.buttons_change  & (1 << 4) && !(controller_struct.buttons & (1 << 4))){
 				if (!new_walk && !g_half_step)
@@ -631,13 +643,13 @@ void update(){
 				}else{
 					float d=(controller_struct.lx-127)/8;
 					float a=(controller_struct.ly-127)/8;
-					//calc_ik(5, 272*cos(((36+d)/180)*M_PI)-70, 272*sin(((36+d)/180)*M_PI)-160, 188.68*sin(((-32+a)/180)*M_PI));
-					//calc_ik(3, 220*cos((d/180)*M_PI)-70, 220*sin((d/180)*M_PI), -100);
-					//calc_ik(1, 272*cos(((-36+d)/180)*M_PI)-70, 272*sin(((-36+d)/180)*M_PI)+160, 188.68*sin(((-32-a)/180)*M_PI));
+					calc_ik(5, 272*cos(((36+d)/180)*M_PI)-70, 272*sin(((36+d)/180)*M_PI)-160, 188.68*sin(((-32+a)/180)*M_PI));
+					calc_ik(3, 220*cos((d/180)*M_PI)-70, 220*sin((d/180)*M_PI), -100);
+					calc_ik(1, 272*cos(((-36+d)/180)*M_PI)-70, 272*sin(((-36+d)/180)*M_PI)+160, 188.68*sin(((-32-a)/180)*M_PI));
 					d=-d;
-					//calc_ik(4, 272*cos(((36+d)/180)*M_PI)-70, 272*sin(((36+d)/180)*M_PI)-160, 188.68*sin(((-32+a)/180)*M_PI));
-					//calc_ik(2, 220*cos((d/180)*M_PI)-70, 220*sin((d/180)*M_PI), -100);
-					//calc_ik(0, 272*cos(((-36+d)/180)*M_PI)-70, 272*sin(((-36+d)/180)*M_PI)+160, 188.68*sin(((-32-a)/180)*M_PI));
+					calc_ik(4, 272*cos(((36+d)/180)*M_PI)-70, 272*sin(((36+d)/180)*M_PI)-160, 188.68*sin(((-32+a)/180)*M_PI));
+					calc_ik(2, 220*cos((d/180)*M_PI)-70, 220*sin((d/180)*M_PI), -100);
+					calc_ik(0, 272*cos(((-36+d)/180)*M_PI)-70, 272*sin(((-36+d)/180)*M_PI)+160, 188.68*sin(((-32-a)/180)*M_PI));
 				}
 				//calc_ik(5, 150 + (controller_struct.lx-127)/5, (controller_struct.ly-127)/5, 0);
 				
