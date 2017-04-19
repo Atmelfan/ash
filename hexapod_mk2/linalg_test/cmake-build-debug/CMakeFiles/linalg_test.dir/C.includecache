@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/atmelfan/documents/hexapod_mk2/linalg_test/linalg/linalg.c
+stdarg.h
+-
+math.h
+-
+linalg.h
+/home/atmelfan/documents/hexapod_mk2/linalg_test/linalg/linalg.h
+
+/home/atmelfan/documents/hexapod_mk2/linalg_test/linalg/linalg.h
+
+/home/atmelfan/documents/hexapod_mk2/linalg_test/main.c
+stdio.h
+-
+linalg/linalg.h
+/home/atmelfan/documents/hexapod_mk2/linalg_test/linalg/linalg.h
+testext.h
+/home/atmelfan/documents/hexapod_mk2/linalg_test/testext.h
+
+/home/atmelfan/documents/hexapod_mk2/linalg_test/testext.c
+linalg/linalg.h
+/home/atmelfan/documents/hexapod_mk2/linalg_test/linalg/linalg.h
+
+/home/atmelfan/documents/hexapod_mk2/linalg_test/testext.h
+linalg/linalg.h
+/home/atmelfan/documents/hexapod_mk2/linalg_test/linalg/linalg.h
+

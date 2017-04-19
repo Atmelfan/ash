@@ -1,0 +1,12 @@
+### Load sound files ###
+load Portal2-19-Turret_Wife_Serenade.wav
+load Turret_alert.wav
+
+### Start ###
+-sync 0
+play Portal2-19-Turret_Wife_Serenade.wav
+
+-sync 5
+exec
+
+

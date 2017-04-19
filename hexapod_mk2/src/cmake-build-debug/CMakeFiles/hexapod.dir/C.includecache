@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/atmelfan/documents/hexapod_mk2/src/main.c
+stdio.h
+-
+movement/linalg.h
+/home/atmelfan/documents/hexapod_mk2/src/movement/linalg.h
+
+/home/atmelfan/documents/hexapod_mk2/src/movement/gait.c
+
+/home/atmelfan/documents/hexapod_mk2/src/movement/inverse_kinematics.c
+
+/home/atmelfan/documents/hexapod_mk2/src/movement/linalg.c
+stdarg.h
+-
+math.h
+-
+linalg.h
+/home/atmelfan/documents/hexapod_mk2/src/movement/linalg.h
+
+/home/atmelfan/documents/hexapod_mk2/src/movement/linalg.h
+
+/home/atmelfan/documents/hexapod_mk2/src/servos/gpa_servos.c
+stdint.h
+-
+gpa_servos.h
+/home/atmelfan/documents/hexapod_mk2/src/servos/gpa_servos.h
+
+/home/atmelfan/documents/hexapod_mk2/src/servos/gpa_servos.h
+stdint.h
+-
+stdbool.h
+-
+

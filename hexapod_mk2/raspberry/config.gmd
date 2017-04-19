@@ -1,0 +1,45 @@
+#
+#
+#
+
+### General config ###
+motd "GPA Robotics integrated KORRA system"
+
+### Logging ###
+logname "main"
+logfile "main.log"
+logformat "[%(asctime)s] %(name)s: [%(levelname)-7s] %(message)s"
+
+### Module list ###
+modules ".":
+    #
+    #
+    #
+    korra_vfs "vfs":
+        args test
+    end
+
+    common_config "common":
+        args:
+
+
+        end
+    end
+
+    ######################################################
+    # Mainframe connection
+    ######################################################
+    korra_server "mainframe":
+        args "krm.gpa-robotics.com:43210":
+            attempts 3
+            sql_name "gpa_mkr_main"
+            authenticate 875000 "9AE1-30A1-AC2F-9BCF"
+        end
+
+        uses:
+            devfs "vfs"
+            temp "tfs"
+        end
+    end
+
+end

@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/linalg_test.dir/main.c.o CMakeFiles/linalg_test.dir/linalg/linalg.c.o CMakeFiles/linalg_test.dir/testext.c.o  -o linalg_test -lm 

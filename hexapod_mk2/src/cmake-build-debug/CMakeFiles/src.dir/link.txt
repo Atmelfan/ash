@@ -1,0 +1,1 @@
+avr-gcc  -Os -mmcu=atxmega128a1u -DF_CPU=32000000UL -std=gnu99 -Wl,--gc-sections -Wall -Wextra -g   CMakeFiles/src.dir/main.c.o CMakeFiles/src.dir/movement/linalg.c.o CMakeFiles/src.dir/movement/gait.c.o CMakeFiles/src.dir/servos/gpa_servos.c.o CMakeFiles/src.dir/movement/leg.c.o  -o ../bin/src 

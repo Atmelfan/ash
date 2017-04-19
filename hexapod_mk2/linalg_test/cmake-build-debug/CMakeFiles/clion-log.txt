@@ -1,0 +1,4 @@
+/home/atmelfan/clion-2016.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/atmelfan/documents/hexapod_mk2/linalg_test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/atmelfan/documents/hexapod_mk2/linalg_test/cmake-build-debug
